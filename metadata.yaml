@@ -1,0 +1,31 @@
+_repo: Memoirs-of-Madame-la-Marquise-de-Montespan---Volume-7_3853
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Montespan, Françoise-Athénaïs de Rochechouart de Mortemart, marquise
+      de
+    aliases:
+    - De Montespan, Françoise-Athénaïs de Rochechouart de Mortemart, marquise
+    - Montespan, Francoise-Athenais de Rochechouart de Mortemart, marquise de
+    birthdate: 1641
+    deathdate: 1707
+    gutenberg_agent_id: '1330'
+    url: http://www.gutenberg.org/2009/agents/1330
+description: ''
+gutenberg_issued: '2004-12-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3853'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Montespan, Françoise-Athénaïs de Rochechouart de Mortemart, marquise de,
+  1641-1707'
+- !lcsh 'Louis XIV, King of France, 1638-1715'
+- !lcc 'DC'
+- !lcsh 'France -- Court and courtiers'
+- GITenberg
+title: Memoirs of Madame la Marquise de Montespan — Volume 7
+url: http://www.gutenberg.org/ebooks/3853
