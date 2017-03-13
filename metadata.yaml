@@ -1,5 +1,8 @@
 _repo: Memoirs-of-Madame-la-Marquise-de-Montespan---Volume-7_3853
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Montespan, Françoise-Athénaïs de Rochechouart de Mortemart, marquise
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '1330'
     url: http://www.gutenberg.org/2009/agents/1330
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3853#Memoirs-of-Madame-la-Marquise-de-Montespan---Volume-7
 gutenberg_issued: '2004-12-02'
 gutenberg_type: Text
 identifiers:
